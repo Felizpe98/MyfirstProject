@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+input{
+    border-radius: 15px;
+    width: 500px;
+    height: 50px;
+    border:none;
+    border: solid white 3px;
+}
+button{
+    border-radius: 360px;
+    width: 50px;
+    height: 50px;
+    border:none;
+}
+body{
+    margin: auto;
+    background-color: rgb(17, 17, 17);
+    
+    
+}
+#cabeçalho{
+    background-color: #fef200;
+    height: 130px;
+    width: auto;
+}
+/*icones*/
+span>a>img{
+    width: 20px;
+    float: right;
+    margin: 10px;
+    margin-top: 100px;
+    position: relative;
+    right: 5px;
+    
+}
+.linksL{
+    width: 23px;
+    float: right;
+    margin: 10px;
+    margin-top: 90px;
+    position: relative;
+    right: 35px;
+    font-size: 16px;
+    color: #1d1b019c;
+    text-decoration: none;
+    padding: 13px;
+}
+.linksR{
+    width: 23px;
+    font-size: 16px;
+    color:#1d1b019c;
+    text-decoration: none;
+    padding: 10px;
+    position: relative;
+    top:100px;left: 50px;
+    
+    
+
+}
+a:hover{
+    color: #242200;
+   
+}
+
+
+/*icones fim*/
+div>a>img{
+    width: 130px;
+    float: left;
+}
+i>img{
+    width: 20px;
+    
+}
+#pesquisa{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    margin-top: 1px ;
+    margin-left: 200px;
+    
+
+}
+.backfriday{
+    width: 600px;
+    position: relative;
+    left: 350px;
+    float: left;
+ 
+    
+}
+.promoção{
+    
+    
+    width: 500px;
+    top: 500px;
+    left: 100px;
+    right: 100px; 
+    float: left;
+    
+}
+.promoção2{
+    
+   
+    width: 500px;
+    top: 500px;
+    left: 100px;
+    right: 100px;
+    float: right;
+    
+}
+
